@@ -34,7 +34,8 @@ A continuación algunas imágenes del análisis realizado:
 
 *Suma de PTS por Player*
 
-![Dashboard Power BI](images/nombre-de-tu-imagen.png)
+![Dashboard Power BI](images/Analisis%20%20NBA%202025.png)
+
 
 ---
 
