@@ -3,14 +3,14 @@ import pandas as pd
 
 url = "https://www.basketball-reference.com/leagues/NBA_2025_per_game.html"
 
-# Usa pandas para leer la tabla directamente
+
 tables = pd.read_html(url)
 
 
 df = tables[0]
 
 
-df = df[df['Player'] != 'Player']  # Quita los duplicados del header
+df = df[df['Player'] != 'Player']
 
 
 df.reset_index(drop=True, inplace=True)
