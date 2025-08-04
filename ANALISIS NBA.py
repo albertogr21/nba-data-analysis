@@ -38,3 +38,5 @@ correlation = df[['PTS', 'AST', 'TRB', 'STL', 'BLK']].corr()
 sns.heatmap(correlation, annot=True, cmap='coolwarm')
 plt.title('Correlación entre estadísticas clave')
 plt.show()
+
+df.to_csv('nba_2025_clean.csv', index=False)
