@@ -25,14 +25,17 @@ El objetivo es demostrar habilidades en análisis de datos, manipulación con Py
 
 ## Visualizaciones
 
+
 A continuación algunas imágenes del análisis realizado:
 
-![Promedio de puntos por posición](powerbi/promedio_puntos_posicion.png)  
-*Promedio de puntos por posición en la NBA 2025*
 
-![Top 10 jugadores en puntos y asistencias](powerbi/top10_puntos_asistencias.png)  
-*Comparativa de puntos y asistencias entre los mejores jugadores*
+*Promedio de PTS por Posicion*
 
+*Top 10 jugadores: Puntos y Asistencias*
+
+*Suma de PTS por Player*
+
+![Dashboard Power BI](images/nombre-de-tu-imagen.png)
 ---
 
 ## Cómo ejecutar el proyecto
